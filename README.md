@@ -1,6 +1,7 @@
 # Bhavyan Potla — Kage-inspired portfolio
 
 Updated release: v7
+visit -> [https://bhavyanpotla.github.io/Bhavyan_Portfolio/](url)
 
 - Kage-inspired editorial/glass visual direction.
 - Mission actions follow the links and button types from `resume_projs.txt`.
