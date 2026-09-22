@@ -1,17 +1,3 @@
-const siteLoader = document.getElementById("site-loader");
-
-if (siteLoader) {
-  document.body.classList.add("loading");
-
-  setTimeout(() => {
-    siteLoader.classList.add("is-hidden");
-    document.body.classList.remove("loading");
-
-    setTimeout(() => {
-      siteLoader.remove();
-    }, 1000);
-  }, 5000);
-}
 const nav = document.querySelector(".nav");
 const menu = document.querySelector(".menu");
 
